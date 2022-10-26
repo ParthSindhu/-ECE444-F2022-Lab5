@@ -6,6 +6,24 @@ Alexandre Gouveia
 
 this repo is a clone of <https://github.com/nelaturuk/education_pathways>.
 
+## Lab 5 Activities
+
+### Activity 1
+
+![activity 1](images/lab5_Act1.png)
+
+### Activity 6
+
+#### User story 4 - Course Ratings
+
+![user story 4 Explanation](images/story-4.png)
+![user story 4](images/userstory4.png)
+
+#### User story 5 - Course Recommendations
+
+![user story 5 Explanation](images/story-5.png)
+![user story 5](images/userstory5.png)
+
 ## Description
 
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
