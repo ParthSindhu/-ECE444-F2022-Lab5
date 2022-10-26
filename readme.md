@@ -19,6 +19,10 @@ this repo is a clone of <https://github.com/nelaturuk/education_pathways>.
 
 ### Activity 6
 
+#### User story 2 - Course Packages
+
+![user story 2](images/userstory2.png)
+
 #### User story 4 - Course Ratings
 
 ![user story 4 Explanation](images/story-4.png)
